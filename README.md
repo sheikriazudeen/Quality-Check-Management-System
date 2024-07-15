@@ -71,18 +71,9 @@ This is a Java-based Quality Control Management System for managing products, de
 
 ## Running the Application
 
-1. Open a terminal or command prompt.
-2. Navigate to the `src` directory:
-    ```sh
-    cd path/to/src
-    ```
+1. Open a terminal.
 
-3. Compile the code:
-    ```sh
-    javac qualitymanagementsystem/*.java
-    ```
-
-4. Run the application:
+2. Run the application:
     ```sh
     QualityControlManagementSystem.java
     ```
